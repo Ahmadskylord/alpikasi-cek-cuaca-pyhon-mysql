@@ -19,6 +19,7 @@ Aplikasi web sederhana untuk mengecek cuaca suatu kota menggunakan Flask, OpenWe
 
 2. **Install dependensi Python**  
    ```bash
+   pip install flask
    pip install flask requests mysql-connector-python
    ```
 
